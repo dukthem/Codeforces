@@ -1,11 +1,11 @@
 n , m = list(map(int, input().split()))
 f = list(map(int, input().split()))
 f.sort()
-y= []
+# y= []
 z = []
 # print(f)
-for i in range(n):
-    y.append(f[i])
+# for i in range(n):
+#     y.append(f[i])
 cnt = 1
 ans = 0
 cnt2 = 99999
